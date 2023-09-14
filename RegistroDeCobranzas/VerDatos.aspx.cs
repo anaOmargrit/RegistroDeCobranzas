@@ -138,6 +138,7 @@ namespace RegistroDeCobranzas
             lineCount = 0;
             int opcion = int.Parse(cobros.SelectedItem.Value);            
 
+            // busco los datos del item seleccionado y los muestro en los label
             foreach (Persona p in personas)
             {
                 lineCount++;
