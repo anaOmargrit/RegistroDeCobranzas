@@ -1,0 +1,25 @@
+Nuevo Cobro: 
+01/01/2022
+Paula Lopez
+456789
+-----
+Nuevo Cobro: 
+01/08/2022
+Mariana Blanco
+654987
+-----
+Nuevo Cobro: 
+01/01/2022
+Pablo Lenci
+400
+-----
+Nuevo Cobro: 
+05/08/2023
+Juan Test
+604
+-----
+Nuevo Cobro: 
+01/01/2022
+Claudio Blanco
+4568
+-----
